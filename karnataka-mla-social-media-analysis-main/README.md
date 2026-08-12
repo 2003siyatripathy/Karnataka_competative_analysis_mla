@@ -1,4 +1,4 @@
-# Karnataka MLA Social Media Intelligence Dashboard
+# Karnataka MLA Social Media analysis Dashboard
 
 A portfolio-ready AI/ML project that tracks public social-media activity for 10 Karnataka MLAs and turns posts into analytics, sentiment, topics, engagement trends, anomaly alerts, and an AI-style daily brief.
 
