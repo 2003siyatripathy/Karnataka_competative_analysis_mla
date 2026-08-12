@@ -207,7 +207,7 @@ git init
 git add .
 git commit -m "Initial Karnataka MLA social intelligence dashboard"
 git branch -M main
-git remote add origin https://github.com/<YOUR_USERNAME>/karnataka-mla-social-intelligence.git
+git remote add origin https://github.com/<YOUR_USERNAME>/karnataka-mla-social-analysis.git
 git push -u origin main
 ```
 
