@@ -1,6 +1,6 @@
 # Karnataka MLA Social Media analysis Dashboard
 
-A portfolio-ready AI/ML project that tracks public social-media activity for 10 Karnataka MLAs and turns posts into analytics, sentiment, topics, engagement trends, anomaly alerts, and an AI-style daily brief.
+A portfolio-ready AI/ML project that tracks public social-media activity for 5 Karnataka MLAs and turns posts into analytics, sentiment, topics, engagement trends, anomaly alerts, and an AI-style daily brief.
 
 > **Important:** `data/mla_profiles.csv` contains the MLA/constituency seed list. The generated demo posts are **synthetic** and are clearly labeled as demo data. They must not be presented as real statements or real political engagement. Real data is collected only through configured official/API-accessible sources.
 
